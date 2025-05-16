@@ -11,6 +11,7 @@
     <None Include="..\..\Source\ShinwooEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +38,30 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Shinwoo\Shinwoo.h">
       <Filter>Source\Shinwoo</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shinwoo\Private">
+      <UniqueIdentifier>{FC60A24C-04EB-3CE3-AECB-33430CF2216B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shinwoo\Private\SW_GameModeBase.cpp">
+      <Filter>Source\Shinwoo\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shinwoo\Private\SW_Player.cpp">
+      <Filter>Source\Shinwoo\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shinwoo\Private\SW_PlayerController.cpp">
+      <Filter>Source\Shinwoo\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shinwoo\Public">
+      <UniqueIdentifier>{4E9A2EE5-7A59-3B78-B371-8E11FE30B4E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shinwoo\Public\SW_GameModeBase.h">
+      <Filter>Source\Shinwoo\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shinwoo\Public\SW_Player.h">
+      <Filter>Source\Shinwoo\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shinwoo\Public\SW_PlayerController.h">
+      <Filter>Source\Shinwoo\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
