@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\SW_Portfolio\\Shinwoo\\Source\\Shinwoo\\Shinwoo.Build.cs",
+		"C:\\SW_Portfolio\\Shinwoo\\Source\\Shinwoo.Target.cs",
+		"C:\\SW_Portfolio\\Shinwoo\\Source\\ShinwooEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
