@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Shinwoo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SW_Portfolio\Shinwoo\Intermediate\Build\Win64\x64\ShinwooEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\SW_Portfolio\Shinwoo\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shinwoo\Shinwoo.cpp.obj"
+"C:\SW_Portfolio\Shinwoo\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shinwoo\Default.rc2.res"
+/OUT:"C:\SW_Portfolio\Shinwoo\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shinwoo\UnrealEditor-Shinwoo.lib"

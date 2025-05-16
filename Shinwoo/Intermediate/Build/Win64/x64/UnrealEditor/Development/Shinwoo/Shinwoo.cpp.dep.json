@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\sw_portfolio\\shinwoo\\source\\shinwoo\\shinwoo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\sw_portfolio\\shinwoo\\intermediate\\build\\win64\\x64\\shinwooeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\sw_portfolio\\shinwoo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shinwoo\\definitions.shinwoo.h",
+            "c:\\sw_portfolio\\shinwoo\\source\\shinwoo\\shinwoo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

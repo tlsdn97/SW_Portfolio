@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Shinwoo",
+			"Path": "..\\Source\\Shinwoo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShinwooEditor",
+			"Path": "..\\Source\\ShinwooEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

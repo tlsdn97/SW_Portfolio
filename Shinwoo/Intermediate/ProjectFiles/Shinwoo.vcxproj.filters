@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Shinwoo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shinwoo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShinwooEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Shinwoo">
+      <UniqueIdentifier>{C2C62830-9B6E-3A03-9EA3-933223DEE3EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shinwoo\Shinwoo.Build.cs">
+      <Filter>Source\Shinwoo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Shinwoo\Shinwoo.cpp">
+      <Filter>Source\Shinwoo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shinwoo\Shinwoo.h">
+      <Filter>Source\Shinwoo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
