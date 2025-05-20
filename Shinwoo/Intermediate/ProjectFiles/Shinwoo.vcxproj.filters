@@ -42,6 +42,12 @@
     <Filter Include="Source\Shinwoo\Private">
       <UniqueIdentifier>{FC60A24C-04EB-3CE3-AECB-33430CF2216B}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Shinwoo\Private\SW_AIGhost.cpp">
+      <Filter>Source\Shinwoo\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shinwoo\Private\SW_AnimInstance.cpp">
+      <Filter>Source\Shinwoo\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Shinwoo\Private\SW_GameModeBase.cpp">
       <Filter>Source\Shinwoo\Private</Filter>
     </ClCompile>
@@ -54,6 +60,12 @@
     <Filter Include="Source\Shinwoo\Public">
       <UniqueIdentifier>{4E9A2EE5-7A59-3B78-B371-8E11FE30B4E1}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\Shinwoo\Public\SW_AIGhost.h">
+      <Filter>Source\Shinwoo\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shinwoo\Public\SW_AnimInstance.h">
+      <Filter>Source\Shinwoo\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Shinwoo\Public\SW_GameModeBase.h">
       <Filter>Source\Shinwoo\Public</Filter>
     </ClInclude>
